@@ -1,0 +1,1 @@
+isso é o arquivo da branch, como se fosse uma versão paralela a principal
